@@ -2,7 +2,7 @@
 
 I like code💻 and math🧮, algorithms🤖 and APIs🐝, natural💬 and programming⌨️ languages.
 
-I code mostly in Python🐍 and [Nim](https://nim-lang.org)👑, but I enjoy learning about languages in general.
+I code mostly in Python🐍 and [Nim](https://nim-lang.org)👑, but I enjoy learning about languages in general. And learning in general I guess 🤓.
 
 Nim is what actually made me start to play the open source game ❤️ and I try to help the community.
 
