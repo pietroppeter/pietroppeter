@@ -4,7 +4,7 @@ I like code💻 and math🧮, algorithms🤖 and APIs🐝, natural💬 and progr
 
 I code mostly in Python🐍 and [Nim](https://nim-lang.org)👑, but I enjoy learning about languages in general. And learning in general I guess 🤓.
 
-Nim is what actually made me start to play the open source game ❤️ and I try to help the community.
+Nim is what actually motivated me to start playing the open source game ❤️ and I try to help the community.
 
 📫 You can contact me on [Twitter](https://twitter.com/pietroppeter) or [Mastodon](https://fosstodon.org/@pietroppeter)
 
