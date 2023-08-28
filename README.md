@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Pietro 👨‍👩‍👧
 
-I like 💻code and 🧮math, 🤖algorithms and 🐝APIs, 💬natural and ⌨️programming languages.
+I like 💻code and 🧮math, 🤖algorithms and 🐝APIs, 💬natural and ⌨️programming languages[^💜].
 
 I code mostly in Python🐍 and [Nim](https://nim-lang.org)👑, but I enjoy learning about languages in general. And learning in general I guess 🤓.
 
@@ -43,3 +43,8 @@ In the meantime we have a Telegram group [Nim Italia](https://t.me/nimitalia)
 
 - 🟩🇮🇹 I wanted to play _wordle in Italian_ with friends (we still do) but it seems some people joined us... [par🇮🇹le](https://github.com/pietroppeter/wordle-it) is actually a snapshot of the original (unclear legal status 😨) but I have set up a version based on an open source clone ([par-le/gioco](https://github.com/par-le/gioco)), just in case.
 - 🌍📈 I manage _public web analytics_ for most of my sites and some other, see [pietroppeter/public-analytics](https://github.com/pietroppeter/public-analytics)
+
+[^💜]: if you also love programming languages and you do not know about [exercism](https://exercism.org/) I encourage you to take a look.
+      It is a wonderful platform and community for learning programming languages that relies on word of mouth to grow.
+      If you find it interesting please consider joining me in subscribing to their fantastic [insiders program](https://exercism.org/insiders) 🙏. It is totally worth it! 🤩
+
