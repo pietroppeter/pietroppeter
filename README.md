@@ -23,6 +23,7 @@ we try to do 🎪[speaking hours](https://github.com/pietroppeter/nimib/discussi
 
 ### 📺 Talks
 
+- 🐍🎈[Streamlit: Example-driven Learning](https://www.youtube.com/live/YHmp9X5Klr8?si=1Nmd2iVSq6SuJzh9&t=290), Python Milano, December 2023.
 - 🐍📈[Time Series Forecasting with Nixtla](https://www.youtube.com/watch?v=CMHvdabYEm8), Python Milano, May 2023
 - 👑🐳[Nimib goes interactive](https://www.youtube.com/watch?v=hZ7wX1kgnuc), NimConf, October 2022
 
