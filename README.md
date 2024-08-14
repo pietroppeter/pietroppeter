@@ -2,15 +2,17 @@
 
 I like 💻code and 🧮math, 🤖algorithms and 🐝APIs, 💬natural and ⌨️programming languages[^💜].
 
-I code mostly in Python🐍 and [Nim](https://nim-lang.org)👑, but I enjoy learning about languages in general. And learning in general I guess 🤓.
+I code mostly in Python🐍 and [Nim](https://nim-lang.org)👑, but I enjoy learning about languages ([Elm](https://elm-lang.org/), [Zig](https://ziglang.org/), [Gleam](https://gleam.run/), ...). And learning in general I guess 🤓.
 
-Nim is what actually motivated me to start playing the open source game ❤️. I try to help the community.
+Nim is what actually motivated me to start playing the open source game 🟢 and being involved in communities 💛💙🧡💜.
 
-📫 You can contact me on [Twitter](https://twitter.com/pietroppeter) or [Mastodon](https://fosstodon.org/@pietroppeter)
+I organize local meetups on [Python and PyData in Milan](https://milano.python.it) 🐍🍻.
 
-<!--
-- 💬 Ask me about ...
--->
+I did a batch at [Recurse Center](https://www.recurse.com/) 🐙, a great place to become better programmers (or hire them).
+
+I work as a Data Scientist at [AgileLab](https://www.agilelab.it/) 🔵⚪, we have a [public handbook](https://handbook.agilelab.it/) and we use a [self management organizational system](https://www.holacracy.org/).
+
+📫 Feel free to ping me if you are curious on any of the above (or else) on [Twitter](https://twitter.com/pietroppeter) 🐦 or [Mastodon](https://fosstodon.org/@pietroppeter) 🐘 or [Linkedin](https://www.linkedin.com/in/pietro-peterlongo-b7605627/)🧑‍💼.
 
 ### 🐳 Nimib-land
 
