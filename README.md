@@ -23,6 +23,7 @@ we try to do 🎪[speaking hours](https://github.com/pietroppeter/nimib/discussi
 
 ### 📺 Talks
 
+- 👑🐍[Nim for Pythonistas](https://www.youtube.com/watch?v=yPMudqyKtLQ), PyCon Italy, May 2024.
 - 🐍🎈[Streamlit: Example-driven Learning](https://www.youtube.com/live/YHmp9X5Klr8?si=1Nmd2iVSq6SuJzh9&t=290), Python Milano, December 2023.
 - 🐍📈[Time Series Forecasting with Nixtla](https://www.youtube.com/watch?v=CMHvdabYEm8), Python Milano, May 2023
 - 👑🐳[Nimib goes interactive](https://www.youtube.com/watch?v=hZ7wX1kgnuc), NimConf, October 2022
@@ -31,7 +32,7 @@ we try to do 🎪[speaking hours](https://github.com/pietroppeter/nimib/discussi
 
 Here in Milan you will often find me at events by [Python Milano](https://milano.python.it)🐍 or [![Open Source Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/).
 
-At some point I will likely start organizing a Nim meet-up in Milan, if you want to help organize, contact me!
+At some point I might start organizing a Nim meet-up in Milan, if you want to help organize, contact me!
 In the meantime we have a Telegram group [Nim Italia](https://t.me/nimitalia)
 
 ### 🌟 Favorites
