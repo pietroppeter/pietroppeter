@@ -32,7 +32,9 @@ we try to do 🎪[speaking hours](https://github.com/pietroppeter/nimib/discussi
 
 ### Local communities
 
-Here in Milan you will often find me at events by [Python Milano](https://milano.python.it)🐍 or [![Open Source Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/).
+Here in Milan you will (not) often find me at events by [Python Milano](https://milano.python.it)🐍 or [![Open Source Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/).
+
+Started (in Turin) a [oss](https://codeberg.org/pietroppeter/oss) project on codeberg to track activities done during Open Source Saturdays.
 
 At some point I might start organizing a Nim meet-up in Milan, if you want to help organize, contact me!
 In the meantime we have a Telegram group [Nim Italia](https://t.me/nimitalia)
